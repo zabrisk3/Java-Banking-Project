@@ -10,7 +10,7 @@ package com.acumensolutions.bank;
 import account.CheckingAccount;
 import account.SavingsAccount
 */
-public class AcumenBank {
+public class BankTest {
 
 	public static void main(String[] args) {
 		System.out.println("Welcome to Acumen Bank!");

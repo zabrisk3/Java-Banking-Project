@@ -61,6 +61,6 @@ public class Account {
 	}
 
 	public double getBalance() {
-		return this.balance;
+		return Math.round(this.balance*100.0)/100.0;
 	}
 }

@@ -1,5 +1,3 @@
-
-//package account;
 public class Account {
 	protected String ownerName;
 	protected double balance;

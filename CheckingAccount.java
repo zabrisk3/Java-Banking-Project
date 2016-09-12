@@ -1,4 +1,3 @@
-//package account;
 public class CheckingAccount extends Account {
 	
 	public CheckingAccount(String ownerName, double balance) {

@@ -1,15 +1,3 @@
-/*
-These files were run using Eclipse, so
-the CheckingAccount and SavingsAccount  
-classes did not need to be directly imported. 
-the import commands are left here, commented out, 
-in case they are desired for those who examine 
-this code. 
-
-package com.acumensolutions.bank;
-import account.CheckingAccount;
-import account.SavingsAccount
-*/
 public class BankTest {
 
 	public static void main(String[] args) {
